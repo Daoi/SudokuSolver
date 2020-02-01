@@ -1,0 +1,1 @@
+#Sudoku Solving algorith in pythohn
